@@ -8,6 +8,7 @@ This repository contains several functions designed for modeling the propagation
 - **Point Source Propagation**: Creates a plot in order to model the emmissions of sound from point several point sources.
 - **Wall Transmission**: Incorporate the effects of walls with specified STCs on sound transmission, including their absorption and reflection of sound.
 - **Plotting**: Creates a contour plot with a certain number of lines according to your neads, and can also create a contour line at a specified dBSPL value.
+- **Testing File**: A file demonstrating the intended use case for these functions
 
 ### Helper Functions
 These functions are designed to aid in a variety of acoustics calculations:
@@ -15,4 +16,3 @@ These functions are designed to aid in a variety of acoustics calculations:
 - **SPL_decay**: Calculates the dB SPL of a sound source after a certain distance.
 - **SPL_point**: Finds the dB SPL value for a point given the sources of sounds and the walls.
 - Other helper functions are available and can be explored in the code.
-  
